@@ -1,0 +1,19 @@
+
+
+hidden1:512,hidden2:512,learning_rate:0.001,epochs:300,seed:20
+H	0.2839	0.2839	0.0
+C	0.2813	0.2813	0.0
+V	0.2826	0.2826	0.0
+Ari	0.2556	0.2556	0.0
+Ami	0.2811	0.2811	0.0
+Nmi	0.2826	0.2826	0.0
+purity	0.581	0.581	0.0
+accuracy	0.5386	0.5386	0.0
+f1	0.566	0.566	0.0
+precision	0.6209	0.6209	0.0
+recall	0.5386	0.5386	0.0
+entropy	0.082	0.082	0.0
+time	63.3051	63.3051	0.0
+mean list for latex table
+'Nmi','purity','Ari','f1','precision','recall','entropy'
+0.2826 &0.581 &0.2556 &0.566 &0.6209 &0.5386 &0.082 &
